@@ -9,7 +9,7 @@ body {
     font-family:fantasy
 }
 .body {
-    background: #5aa09c; 
+    background: #77c4d1; 
     max-width: 800px;
     display: block;
     margin: 0 auto;
@@ -54,7 +54,7 @@ body {
     }
 
     .weather-app-data {
-        border-bottom: 1px solid rgb(232, 129, 166);
+        
         display: flex;
         justify-content: space-between;
         margin-bottom: 25px;
